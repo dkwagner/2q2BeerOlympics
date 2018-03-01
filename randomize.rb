@@ -1,6 +1,3 @@
-# Variable declarations
-
-
 def randomize(numPar, arr)
   countries = ["United States", "Canada", "Russia", "Korea"]
   parArr = Array.new(numPar)
